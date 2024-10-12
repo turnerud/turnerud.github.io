@@ -1,1 +1,48 @@
+# HMAC SHA-256 Algorithm
 
+## Overview
+HMAC SHA_256 encryption. Generating a hash using a secret, randomly generated key.
+
+## Code
+'''python
+
+import hashlib
+import random
+
+plaintext = "Hello Bob"
+list_of_plaintext_characters = list(plaintext)
+secretkey = []
+plaintextlength = len(list_of_plaintext_characters)
+counter = 0
+ciphertext = []
+bitlength = 7
+
+# This will generate a random secret key for each byte
+secretkey = [random.randint(0, 1) for _ in range(bitlength)]
+# Converting the list of plaintext characters into binary
+for char in list_of_plaintext_characters:
+    binary = format(ord(char), '07b')
+    digitlist = [int(digit) for digit in binary]
+    # List of XOR outcomes
+    xor_bits = []
+    # For each bit in a byte, XOR it with secret key, and append it to ciphertext
+    
+    for i in range(bitlength):
+        xor_result = digitlist[i] ^ secretkey[i] 
+        xor_bits.append(xor_result)
+        
+        # This will make the binary string
+    byte = int(''.join(map(str, xor_bits)), 2)
+    ciphertext.append(byte)
+
+# ciphertext needs to be readable for hashlib to compute it
+cipher_list_of_bytes = bytes(ciphertext)
+
+
+finalhash = hashlib.sha256(cipher_list_of_bytes).hexdigest()
+
+print(finalhash)
+
+'''
+
+## Video Demo
