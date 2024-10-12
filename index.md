@@ -23,7 +23,7 @@ Rotation-based cypher.
 
 # Mobile App Development
 
-Miscellaneous projects, utilizing Dart and Flutter.
+Miscellaneous projects that don't have much to do with cybersecurity, but rather me working with utilizing Dart and Flutter to implement functional apps with a GUI.
 
 ### [To-do App](./todo-app.md)
 
