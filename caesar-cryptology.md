@@ -8,7 +8,7 @@ DecodeCaesar is a verification for the plain text message. The plain text and ci
 
 ## Code 
 
-'''python
+```python
 plainText = "Hi my name is Simon";
 codeText = "Kl pb qdph lv Vlprq";
 
@@ -132,7 +132,7 @@ def DecodeCaesar(plainText, codeText):
 EncodeCaesar();
 DecodeCaesarShift();
 DecodeCaesar(plainText, codeText);
-'''
 
+```
 ## Video Demo
 Work in Progress
