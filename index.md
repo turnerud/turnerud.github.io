@@ -17,8 +17,6 @@ These projects display encryption and decryption processes for several cryptolog
 ### [Caesar Shift](./caesar-cryptology.md)
 Rotation-based cypher.
 
-### [HMAC-SHA-256](./hmac-sha-256.md)
-
 ### [One Time Pad](./one-time-pad.md)
 
 ### [Block Cipher](./block-cipher.md)
