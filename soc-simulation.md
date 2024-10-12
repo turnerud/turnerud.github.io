@@ -1,8 +1,8 @@
-# Security Operations Center (SOC) Simulation
+# SIEM Lab
 
 ## Overview
 
-I created a SOC simulation that I can run from my house. I configured a VM and utilized Microsoft Azure and Sentinel in order to detect network traffic and security incidents or vulnerabilities.
+I created a SIEM emulation that I can run from my house. I configured a VM and utilized Microsoft Azure and Sentinel in order to detect network traffic and security incidents or vulnerabilities.
 
 I documented the process below.
 
