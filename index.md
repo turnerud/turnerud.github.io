@@ -21,6 +21,10 @@ Rotation-based cypher.
 
 ### [Block Cipher](./block-cipher.md)
 
+## Blue Team
+### Security Operatons Center Simulation
+In progress. I'm creating a simulation of a SOC, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting network traffic and security vulnerabilities.
+
 # Mobile App Development
 
 Miscellaneous projects that don't have much to do with cybersecurity, but rather me working with utilizing Dart and Flutter to implement functional apps with a GUI.
