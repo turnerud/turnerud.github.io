@@ -9,7 +9,9 @@ I documented the process below.
 ## Documentation
 
 The resource group is the container for all of the things I’m going to be creating:
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/136c1197-7a8f-4e1f-bb6c-410fcf93c171">
+
 I chose Windows 11 Pro as my operating system for this VM.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/ef42f840-5927-496c-949e-1f0aaa0bfb79">
