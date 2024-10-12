@@ -18,7 +18,7 @@ HMAC SHA-256 encryptor, using hashlib documentation.
 ### [Caesar Shift](./caesar-cryptology.md)
 Rotation-based cypher.
 
-### [One Time Pad](./one-time-pad.md)
+### [One-Time Pad](./one-time-pad.md)
 Encryption with one-time pad algorithm.
 Decryption of ciphertext2, when given plaintext1, ciphertext1 and ciphertext2.
 
