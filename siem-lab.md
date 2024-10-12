@@ -14,12 +14,14 @@ I chose Windows 11 Pro as my operating system for this VM.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/ef42f840-5927-496c-949e-1f0aaa0bfb79">
 
-I decided to leave this allowed initially, in order to see the brute force attempts to RDP into my network.
+I decided to leave this option allowed initially, in order to see the brute force attempts to RDP into my network.
 
 I was able to deploy Microsoft Sentinel to my resource group. This will allow us to streamline our SIEM through their user interface.
 
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/0022840d-ab7c-493b-9251-84148e9b72f5">
+
 Now, we can access this interface (which is empty for now): 
+
 ![image](https://github.com/user-attachments/assets/a6c260ee-d9f7-471b-9f5f-d4d537f49a3a)
 
 
@@ -28,7 +30,7 @@ Then, I installed Windows Security Events under the Data connectors tab in Senti
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/a28c70ff-d702-4559-85b9-4fa69a499945">
 
-It gives us two agents, as one of them is a legacy agent. We’re going to use the ‘Windows Security Events via AMA’ as that’s the one being supported. 
+It gives us two agents, as one of them is a legacy agent. I used the ‘Windows Security Events via AMA’ as that’s the one being supported and I didn't want to risk anything with the legacy agent.
 
 Then, I configured the data collection rule in order to send the logs to Sentinel. 
 
@@ -37,7 +39,7 @@ Then, I configured the data collection rule in order to send the logs to Sentine
 
 
 
-We want to collect the data from our VM, so we checked it. I enabled the option that allows it to capture all security events so our interface will be thorough.
+This option wasn't preset, I had to manually check my VM to collect data from it. I enabled the option that allows it to capture all security events so our interface will be thorough.
 
 <img width="343" alt="image" src="https://github.com/user-attachments/assets/61350aa1-2943-4586-a639-204581d70cc3">
 
