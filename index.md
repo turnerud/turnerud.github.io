@@ -17,7 +17,7 @@ These projects display encryption and decryption processes for several cryptolog
 
 ### [HMAC-SHA-256](./hmac-sha-256.html)
 
-### [Caesar Shift](./caesar-cryptology.html)
+### [Caesar Shift](./caesar-cryptology.md)
 Rotation-based cypher.
 
 ### [HMAC-SHA-256](./hmac-sha-256.html)
