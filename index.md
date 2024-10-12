@@ -26,7 +26,7 @@ Decryption of ciphertext2, when given plaintext1, ciphertext1 and ciphertext2.
 Encryption and decryption with the Cipher Block Chaining algorithm (CBC).
 
 ## Labs
-### [Security Operatons Center Simulation](./soc-simulation-.md)
+### [Security Operatons Center Simulation](./soc-simulation.md)
 In progress. I created a simulation of a SOC, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting network traffic and security vulnerabilities.
 
 # Mobile App Development
