@@ -4,9 +4,6 @@ layout: default
 
 I've included a link for each project that will lead you to my code, documentation, and video demos.
 
-[Link to another page](./another-page.html).
-
-
 # Cybersecurity
 
 These are all of my projects that pertain to cybersecurity.
@@ -15,7 +12,7 @@ These are all of my projects that pertain to cybersecurity.
 
 These projects display encryption and decryption processes for several cryptology algorithms. All are coded in Python.
 
-### [HMAC-SHA-256](./hmac-sha-256.md)
+### [HMAC SHA-256](./hmac-sha-256.md)
 
 ### [Caesar Shift](./caesar-cryptology.md)
 Rotation-based cypher.
