@@ -1,7 +1,7 @@
 # Personal Finance Transaction Recorder
 
 ## Overview
-Basic way of keeping track recording
+Basic way of keeping track of spending or transactions.
 
 ## Code
 
