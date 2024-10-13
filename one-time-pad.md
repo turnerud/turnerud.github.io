@@ -84,7 +84,5 @@ cipherp1, cipherp2, key = encryption()
 decryption(cipherp1, cipherp2, key)  
 ```
 ## Video Demo
-<video width="320" height="240" controls loop="" muted="" autoplay="">
-<source src = "https://github.com/turnerud/turnerud.github.io/raw/refs/heads/main/OneTimePad.mov"
-    </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/azfOXILbTvM?si=zpSY3cnCNzx3AKuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
