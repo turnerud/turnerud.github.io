@@ -83,5 +83,8 @@ def decryption(cipherp1, cipherp2, key):
 cipherp1, cipherp2, key = encryption()  
 decryption(cipherp1, cipherp2, key)  
 ```
-## Video
+## Video Demo
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+<source src = "https://github.com/turnerud/turnerud.github.io/raw/refs/heads/main/OneTimePad.mov"
+    </video>
 
