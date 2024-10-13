@@ -27,7 +27,7 @@ Encryption and decryption with the Cipher Block Chaining algorithm (CBC).
 
 ## Labs
 ### [SIEM Lab](./siem-lab.md)
-In progress. I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
+I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
 
 # Mobile App Development
 
