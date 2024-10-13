@@ -137,4 +137,6 @@ DecodeCaesar(plainText, codeText);
 
 ```
 ## Video Demo
-Work in Progress
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+<source src = "https://github.com/turnerud/turnerud.github.io/raw/refs/heads/main/RotationCryptologyDemo.mov"
+    </video>
