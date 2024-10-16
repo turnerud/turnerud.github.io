@@ -25,8 +25,8 @@ Decryption of ciphertext2, when given plaintext1, ciphertext1 and ciphertext2.
 ### [Block Cipher](./block-cipher.md)
 Encryption and decryption with the Cipher Block Chaining algorithm (CBC).
 
-## Home Lab Work
-### [SIEM Lab](./siem-lab.md)
+## Home Lab
+### [SIEM Interface](./siem-lab.md)
 I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
 
 # Mobile App Development
