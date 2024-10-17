@@ -29,6 +29,9 @@ Encryption and decryption with the Cipher Block Chaining algorithm (CBC).
 ### [SIEM Lab](./siem-lab.md)
 I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
 
+### [Active Directory Lab](./active-directory-lab)
+Through HackTheBox Academy, I'm able to get some hands-on experience and familiarity with Active Directory.
+
 # Mobile App Development
 
 Miscellaneous projects that don't have much to do with cybersecurity, but rather me working with utilizing Dart and Flutter to implement functional apps with a GUI.
