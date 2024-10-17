@@ -67,3 +67,13 @@ As you can see here, Sentinel caught my RDP login. After seeing this incident, I
 
 Although, the logic wasn't wrong. The rule did exactly what I wanted it to!
 
+After a couple of days, I looked back at the logs to see just how many brute force attempts were logged from user accounts.
+
+![image](https://github.com/user-attachments/assets/a1ded922-e63b-497f-9af7-2f0d5c80815c)
+
+As you can see, there were attempts logged nearly every minute to RDP into my VM. I was able to trace some of these IPs to places like Dubai, Cambodia, Russia, etc. 
+
+There were around 2400 attempts to access my open RDP port. All failed, but still a ton of attempts. Thankfully, no incidents.
+
+
+
