@@ -22,8 +22,8 @@ Through HackTheBox Academy, here I'm able to get some hands-on experience and fa
 
 These projects present encryption and decryption processes for several cryptology algorithms. All are coded in Python.
 
-### [HMAC SHA-256](./hmac-sha-256.md)
-HMAC SHA-256 encryptor, using hashlib documentation.
+### [SHA-256](./sha-256.md)
+SHA-256 encryptor, using hashlib documentation.
 
 ### [Caesar Shift](./caesar-cryptology.md)
 Rotation-based cypher.
