@@ -35,6 +35,9 @@ Decryption of ciphertext2, when given plaintext1, ciphertext1 and ciphertext2.
 ### [Block Cipher](./block-cipher.md)
 Encryption and decryption with the Cipher Block Chaining algorithm (CBC).
 
+### [Mini SHA-256 Hash Cracker](./mini-sha-256-hash-cracker.md)
+Just an extra credit part to my midterm project in Databases & Computer Security. Given a random hash and password length, I'm asked to decrypt it.
+
 # Mobile App Development
 
 Miscellaneous projects that don't have much to do with cybersecurity, but rather me working with utilizing Dart and Flutter to implement functional apps with a GUI.
