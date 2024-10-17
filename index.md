@@ -8,9 +8,19 @@ I've included a link for each project that will lead you to my code, documentati
 
 These are all of my projects that pertain to cybersecurity.
 
+## Home Lab
+
+Documenting the process of learning different tools and practices through a VM!
+
+### [SIEM Lab](./siem-lab.md)
+I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
+
+### [Active Directory Lab](./active-directory-lab)
+Through HackTheBox Academy, here I'm able to get some hands-on experience and familiarity with Active Directory. I'm given a list of tasks and utilize Powershell and the AD GUI to accomplish them.
+
 ## Cryptology
 
-These projects display encryption and decryption processes for several cryptology algorithms. All are coded in Python.
+These projects present encryption and decryption processes for several cryptology algorithms. All are coded in Python.
 
 ### [HMAC SHA-256](./hmac-sha-256.md)
 HMAC SHA-256 encryptor, using hashlib documentation.
@@ -24,13 +34,6 @@ Decryption of ciphertext2, when given plaintext1, ciphertext1 and ciphertext2.
 
 ### [Block Cipher](./block-cipher.md)
 Encryption and decryption with the Cipher Block Chaining algorithm (CBC).
-
-## Home Lab
-### [SIEM Lab](./siem-lab.md)
-I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
-
-### [Active Directory Lab](./active-directory-lab)
-Through HackTheBox Academy, I'm able to get some hands-on experience and familiarity with Active Directory.
 
 # Mobile App Development
 
