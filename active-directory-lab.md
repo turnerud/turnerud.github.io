@@ -36,6 +36,11 @@ In order to enforce the GPO I have to link it, and then modify it. I’m tasked 
 
 Done, now we have to add a computer to our domain and change the OU that it resides in.
 
-To be continued
+The host we need to join the INLANEFREIGHT domain is named: ACADEMY-IAD-W10. We have the credentials to the host. 
+To add the computer to the domain from the localhost GUI, I had to hop into the control panel and manually edit the domain
 
+![image](https://github.com/user-attachments/assets/1556df4b-565a-401c-9d5c-2482d1687dc9)
 
+![image](https://github.com/user-attachments/assets/db202fc9-037e-4213-8741-7a8626551036)
+
+Done!
