@@ -25,12 +25,12 @@ These projects present encryption and decryption processes for several cryptolog
 ### [SHA-256](./sha-256.md)
 SHA-256 encryptor, using hashlib documentation.
 
-### [Caesar Shift](./caesar-cryptology.md)
-Rotation-based cypher.
-
 ### [One-Time Pad](./one-time-pad.md)
 Encryption with one-time pad algorithm.
 Decryption of ciphertext2, when given plaintext1, ciphertext1 and ciphertext2.
+
+### [Caesar Shift](./caesar-cryptology.md)
+Rotation-based cypher.
 
 ### [Block Cipher](./block-cipher.md)
 Encryption and decryption with the Cipher Block Chaining algorithm (CBC).
