@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I've included a link for each project that will lead you to my code, documentation, and video demos.
+I've included a link for each project that will lead you to my code, documentation, and video demos (if applicable).
 
 # Cybersecurity
 
