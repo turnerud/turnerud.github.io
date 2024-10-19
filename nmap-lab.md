@@ -1,9 +1,11 @@
 # Network Enumeration Lab
 
-## Documentation 
+## Overview 
 
 Lab Instructions:
 A company hired us to test their IT security defenses, including their IDS and IPS systems. Our client wants to increase their IT security and will, therefore, make specific improvements to their IDS/IPS systems after each successful test. Our goal is to find out specific information from the given situations. The machine is protected by IDS/IPS systems. The idea is to do this quietly so the systems aren’t alerted.
+
+## Documentation
 
 First, the client wants to know if we can identify which OS their provided machine is running on.
 I ran a very general nmap scan of the IP just to see what ports were open. After I did that, I specified a certain port and used -sV to find the details from that specific port (22). I could’ve probably just used -O in hindsight and that would’ve been a quieter way of doing it.
