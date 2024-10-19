@@ -2,7 +2,7 @@
 
 ## Overview
 
-Through HTB, security events and incidents pre-programmed into the Elastic interface. It was my assignment to complete four tasks/visualizations.
+Through HTB's VM, security events and incidents were pre-programmed into the Elastic interface. It was my assignment to complete four tasks/visualizations.
 
 ## Documentation
 
