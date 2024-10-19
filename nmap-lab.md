@@ -24,7 +24,7 @@ This one actually took a good bit of trial and error. I tried running scripts, T
 
 <img width="1061" alt="Screenshot 2024-10-19 at 1 01 39 AM" src="https://github.com/user-attachments/assets/2469d654-bd2b-42ad-969b-8f36dace698d">
 
-It was open, so I jumped in using nc from the source port of the DNS server once again, and the flag revealed itself to me.
+It was open, so I jumped in using nc from the source port of the DNS server once again, and the flag revealed itself.
 
 <img width="779" alt="Screenshot 2024-10-19 at 1 03 32 AM" src="https://github.com/user-attachments/assets/4ac561fa-674b-41b6-b185-95a3d06bf6ea">
 
