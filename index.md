@@ -15,8 +15,11 @@ Documenting the process of learning different tools and practices through a VM!
 ### [SIEM Lab](./siem-lab.md)
 I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
 
-### [Active Directory Lab](./active-directory-lab)
-Through HackTheBox Academy, here I'm able to get some hands-on experience and familiarity with Active Directory. I'm given a list of tasks and utilize Powershell and the AD GUI to accomplish them.
+### [Active Directory Lab](./active-directory-lab.md)
+Here I'm able to get some hands-on experience and familiarity with Active Directory. I'm given a list of tasks and utilize Powershell and the AD GUI to accomplish them.
+
+### [Network Enumeration Lab](./nmap-lab.md)
+I'm given three tasks where I use 'nmap' to scan a target, having to bypass firewall rules and be as quiet/efficient as possible.
 
 ## Cryptology
 
