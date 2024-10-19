@@ -75,7 +75,7 @@ As you can see, there were attempts logged nearly every minute to RDP into my VM
 
 There were around 2400 attempts to access my open RDP port. All failed, but still a ton of attempts. Thankfully, no incidents.
 
-Running a query to see the failed logins, it seems most of the hackers tried to login directly to my administrator account. Interestingly, some tried using general names to guess a username. 
+Running a query to see the failed logins, it seems most of the hackers tried to login directly to my administrator account. Some even tried using general names to guess a username. 
 
 ![image](https://github.com/user-attachments/assets/4f43659a-4c99-4dc6-bd6d-d11aec4a6151)
 
