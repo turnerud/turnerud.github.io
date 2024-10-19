@@ -1,8 +1,10 @@
 # Developing a Dashboard & Visualization via Elastic
 
-## Documentation
+## Overview
 
 Through HTB, security events and incidents pre-programmed into the Elastic interface. It was my assignment to complete four tasks/visualizations.
+
+## Documentation
 
 Task one was to assemble a visualization consisting of failed login attempts from all users. 
 
