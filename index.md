@@ -12,7 +12,7 @@ These are all of my projects that pertain to cybersecurity.
 
 Documenting the process of learning different tools and practices through a VM!
 
-### [Sentinel SIEM Lab](./sentinel-siem-lab.md)
+### [SIEM Lab](./siem-lab.md)
 I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
 
 ### [Active Directory Lab](./active-directory-lab.md)
