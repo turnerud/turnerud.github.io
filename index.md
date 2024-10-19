@@ -15,7 +15,7 @@ Documenting the process of learning different tools and practices through a VM!
 ### [SIEM Lab](./siem-lab.md)
 I created my own security operations center, utilizing Microsoft Azure and Sentinel to familiarize myself with detecting system traffic and security vulnerabilities.
 
-### [Elastic Dashboard & Visualization Lab](./elastic-lab)
+### [Elastic Dashboard & Visualization Lab](./elastic-lab.md)
 I configure different visualizations to illustrate various types of security incidents via the Kibana interface. I use KQL to query for incidents like failed logins, successful RDPs, etc.
 
 ### [Active Directory Lab](./active-directory-lab.md)
