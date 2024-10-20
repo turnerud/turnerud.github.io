@@ -8,7 +8,7 @@ I've included a link for each project that will lead you to my code, documentati
 
 These are all of my projects that pertain to cybersecurity.
 
-## Home Lab
+## Home Lab Projects
 
 Documenting the process of learning different tools and practices through a VM!
 
