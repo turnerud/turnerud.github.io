@@ -47,9 +47,10 @@ As you can see, this provided me with a dashboard of admin account activity, tel
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/2dcc2b62-20ab-4da2-bcba-e9ce6efb1870">
 
-Altogether, the dashboard of SOC alerts looks like this: 
+Altogether, after the dashboard of SOC alerts looks like this: 
 
-<img width="1428" alt="Screenshot 2024-10-19 at 8 10 01 PM" src="https://github.com/user-attachments/assets/1bc41e95-fdbd-49e3-9804-06e5f3717f0f">
+<img width="1431" alt="image" src="https://github.com/user-attachments/assets/bb6ca37c-a525-4ddd-a7dd-5d48b4554adb">
+
 
 Done!
 
