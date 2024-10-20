@@ -49,7 +49,9 @@ As you can see, this provided me with a dashboard of admin account activity, tel
 
 Altogether, the dashboard of SOC alerts looks like this: 
 
+<img width="1428" alt="Screenshot 2024-10-19 at 8 10 01 PM" src="https://github.com/user-attachments/assets/1bc41e95-fdbd-49e3-9804-06e5f3717f0f">
 
+Done!
 
 
 
