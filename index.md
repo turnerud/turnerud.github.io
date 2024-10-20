@@ -22,7 +22,7 @@ I configure different visualizations to illustrate various types of security inc
 Here I'm able to get some hands-on experience and familiarity with Active Directory. I'm given a list of tasks and utilize Powershell and the AD GUI to accomplish them.
 
 ### [Network Enumeration Lab](./nmap-lab.md)
-I'm given three tasks where I use 'nmap' to scan a target, having to bypass firewall rules and be as quiet/efficient as possible.
+I'm given three tasks where I use 'nmap' to scan a target, having to bypass firewall rules and be as quiet or efficient as possible to not alert the IDS/IPS.
 
 ## Cryptology
 
