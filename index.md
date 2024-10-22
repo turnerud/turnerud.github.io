@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
-I've included a link for each project that will lead you to my code, documentation, and video demos (if applicable).
+
+Welcome! My name is Simon Turner, and I'm a senior at the University of Dallas. I'm currently finishing up my Bachelor's degree in Computer Science, and I intend to begin the MS in Cybersecurity this spring of 2025. 
+
+Here, I'm documenting labs and projects that I've completed to familiarize myself with different tools and techniques in the cybersecurity industry. 
+
+In the Cryptology section, I've included a link for each project that will lead you to my code, documentation, and video demos. These projects capture the encryption and decryption processes behind various algorithms.
+
+I'm continuing to add to this as I further my education in the field of cybersecurity. If you wish to connect, feel free to reach out to me on [LinkedIn](www.linkedin.com/in/simonturnerud)!
 
 # Cybersecurity
 
