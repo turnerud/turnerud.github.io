@@ -4,6 +4,8 @@
 
 I created a SIEM emulation that I can run from my home. I configured a VM and utilized Microsoft Azure and Sentinel in order to detect network traffic and security incidents or vulnerabilities.
 
+*This project is still in progress.. I'm continuing to update documentation as I progress
+
 I documented the process below.
 
 ## Documentation
