@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Welcome! My name is Simon Turner, and I'm a senior Computer Science major at the University of Dallas. Starting in Spring 2025, I will begin my MS in Cybersecurity. I've included a link for each project that will lead you to my code, documentation, and video demos (if applicable).
+I've included a link for each project that will lead you to my code, documentation, and video demos (if applicable).
 
 # Cybersecurity
 
