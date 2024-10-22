@@ -3,10 +3,3 @@ description: Posting my project work as it pertains to computer security
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
-
-name: LinkedIn
-    icon: linkedin
-    username: Simon Turner
-    url: www.linkedin.com/in/simonturnerud
-    desc: My LinkedIn Profile
-    share: true
