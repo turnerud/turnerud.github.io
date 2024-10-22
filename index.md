@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-
-I've included a link for each project that will lead you to my code, documentation, and video demos (if applicable).
+Welcome! My name is Simon Turner, and I'm a senior Computer Science major at the University of Dallas. Starting in Spring 2025, I will begin my MS in Cybersecurity. I've included a link for each project that will lead you to my code, documentation, and video demos (if applicable).
 
 # Cybersecurity
 
-These are all of my projects that pertain to cybersecurity.
+These are all of my projects that pertain to cybersecurity. 
 
 ## Home Lab Projects
 
@@ -46,7 +45,7 @@ Just an extra credit part to my midterm project in Databases & Computer Security
 
 # Mobile App Development
 
-Miscellaneous projects that don't have much to do with cybersecurity, but rather me working with utilizing Dart and Flutter to implement functional apps with a GUI.
+Miscellaneous projects that don't have much to do with cybersecurity, but rather me utilizing Dart and Flutter to implement functional apps with a GUI.
 
 ### [To-do App](./todo-app.md)
 
