@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome! My name is Simon Turner, and I'm a senior at the University of Dallas. I'm currently finishing up my Bachelor's degree in Computer Science, and I'm beginning a MS in Cybersecurity this spring of 2025. 
+My name is Simon Turner, and I'm a senior at the University of Dallas. I'm currently finishing up my Bachelor's degree in Computer Science, and I'm beginning a MS in Cybersecurity this spring of 2025. 
 
 Here, I'm documenting labs and projects I've tackled to familiarize myself with different tools and techniques in the cybersecurity industry. 
 
